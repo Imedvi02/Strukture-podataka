@@ -1,0 +1,7 @@
+﻿  vjezba4.c
+C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba4\vjezba4.c(69,12): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba4\vjezba4.c(229,55): warning C4020: 'abs': too many actual parameters
+C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba4\vjezba4.c(229,12): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba4\vjezba4.c(229,12): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba4\vjezba4.c(229,12): message : the missing variadic argument 2 is required by format string '%d'
+  vjezba4.vcxproj -> C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba4\Debug\vjezba4.exe
