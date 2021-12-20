@@ -1,0 +1,12 @@
+﻿  vjezba9.c
+C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba9\vjezba9.c(65,12): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba9\vjezba9.c(95,17): warning C4133: 'function': incompatible types - from 'List *' to 'FILE *'
+C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba9\vjezba9.c(95,22): warning C4133: 'function': incompatible types - from 'char [50]' to 'LPosition'
+C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba9\vjezba9.c(102,17): warning C4133: 'function': incompatible types - from 'List *' to 'FILE *'
+C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba9\vjezba9.c(102,22): warning C4133: 'function': incompatible types - from 'char [50]' to 'LPosition'
+C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba9\vjezba9.c(123,12): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba9\vjezba9.c(160,12): warning C4013: 'AppendList' undefined; assuming extern returning int
+C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba9\vjezba9.c(198,12): warning C4047: 'return': 'LPosition' differs in levels of indirection from 'int'
+C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba9\vjezba9.c(213,25): warning C4028: formal parameter 1 different from declaration
+C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba9\vjezba9.c(213,37): warning C4028: formal parameter 2 different from declaration
+  vjezba9.vcxproj -> C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba9\Debug\vjezba9.exe
