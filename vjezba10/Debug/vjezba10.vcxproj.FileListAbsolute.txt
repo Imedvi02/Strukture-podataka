@@ -1,0 +1,4 @@
+C:\Users\Iva\Desktop\vjezba10\Debug\vjezba10.exe
+C:\Users\Iva\Desktop\vjezba10\Debug\vjezba10.pdb
+C:\Users\Iva\Desktop\Strukture-podataka\vjezba10\Debug\vjezba10.exe
+C:\Users\Iva\Desktop\Strukture-podataka\vjezba10\Debug\vjezba10.pdb
