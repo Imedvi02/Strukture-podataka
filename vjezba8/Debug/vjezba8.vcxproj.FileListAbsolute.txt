@@ -1,2 +1,4 @@
 C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba8\Debug\vjezba8.exe
 C:\Users\Iva\Desktop\Računarstvo 120\Strukture podataka\vjezba8\Debug\vjezba8.pdb
+C:\Users\Iva\Desktop\Strukture-podataka\vjezba8\Debug\vjezba8.exe
+C:\Users\Iva\Desktop\Strukture-podataka\vjezba8\Debug\vjezba8.pdb
